@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+#members {
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
